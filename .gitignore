@@ -8,3 +8,9 @@ tmp
 /.settings/
 /Resources/
 /docs/generatedDocumentation/*
+
+/build
+
+/Resources
+
+/.DS_Store
