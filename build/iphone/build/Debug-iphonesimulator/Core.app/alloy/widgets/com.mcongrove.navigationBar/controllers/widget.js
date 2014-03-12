@@ -1,0 +1,1 @@
+/Users/matthewcongrove/Documents/Titanium_Studio_Workspace/Zengine/Resources/iphone/alloy/widgets/com.mcongrove.navigationBar/controllers/widget.js

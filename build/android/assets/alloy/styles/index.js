@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100101.0013,"key":"Window","style":{navBarHidden:true,}}];
